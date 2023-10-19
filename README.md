@@ -1,70 +1,70 @@
+# Getting Started with Create React App
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Todo App</h1></summary>
-  </ul>
-</div>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<table>
-   <thead>
-        <tr>
-            <th>What's used in this app ?</th>
-            <th>How to run ?</th>
-            <th>Author</th>
-        </tr>
-    </thead>
-  <tbody>
-  <tr>
-    <td> 
-      <li> Booststrap
-      <li> React
-      <li> Local Storage
-      <li> Javascript
-      <li> Html
-      <li> Css
-    </td>
-    <td>  <h4>Once you clone the project</h4>  
-      
- 1) run  `pnpm install`  or `yarn install` for node modules
- 2) run `pnpm start` or `yarn start` for open development stage
-    
-   </td>
-    <td> <li> <a href="https://github.com/AliDurul" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/ali-durul/" target="_blank">Visit me on Linkedin</a> 
-  </tr>
-  <tr>
-    <td colspan="3"><h3>What is this project about ?</h3> 
-<p>
-This is todo project working with local storage. User can add new todo and able complete the todo if they want able delete the todo.
-</p>
-    </td>
-  </tr>
-      </tbody>
-</table>
+## Available Scripts
 
+In the project directory, you can run:
 
+### `yarn start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2>How does my project look</h2></summary>
-  </ul>
-</div>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `yarn test`
 
-[Live Link](https://tod0-appp.vercel.app)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-![todo](https://github.com/AliDurul/Todo-App/assets/80897590/53bb0d27-45df-4dfb-b4dc-da47c7d2bca4)
+### `yarn build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2>Feedback and Collaboration</h2></summary>
-  </ul>
-</div>
-I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out.<br>
-I'm always open to collaboration and welcome the opportunity to work on exciting projects together.<br>
-Thank you for visiting my project. I hope you have a wonderful experience exploring it, and I look forward to connecting with you soon!
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `yarn eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
